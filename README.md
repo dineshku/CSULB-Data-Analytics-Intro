@@ -1,2 +1,8 @@
-# CSULB-Data-Analytics-Intro
-_Data Repository of all course work related to the Intro Class - 2022_
+# Data Science & Analytics Portfolio
+This repository contains projects and visualizations created from the Data Science & Analytics program with Cal State Long Beach
+
+## SQL
+
+## Statistics
+
+## Visual Communications
